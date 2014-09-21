@@ -1,1 +1,1 @@
-include ':app', ':app2', ':intent and filter'
+include ':app', ':app2', ':intent and filter', ':toastdemo', ':app3', ':fashion'

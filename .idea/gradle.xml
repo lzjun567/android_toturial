@@ -10,7 +10,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/app3" />
+            <option value="$PROJECT_DIR$/fashion" />
             <option value="$PROJECT_DIR$/intent and filter" />
+            <option value="$PROJECT_DIR$/toastdemo" />
           </set>
         </option>
       </GradleProjectSettings>
